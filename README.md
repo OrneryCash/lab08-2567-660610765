@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ธีรภัทร พิพัฒน์บุณยารัตน์
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660610765.vercel.app/
 
 ---
 

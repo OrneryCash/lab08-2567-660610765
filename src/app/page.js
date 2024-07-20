@@ -21,12 +21,12 @@ export default function Home() {
         <TaskInput />
         {/* task detail */}
         {tasks.map((task) => (
-          <Task task={task} key={task.id} />
+          <Task task={{ ...task }} key={task.id} />
         ))}
       </div>
 
       {/* //footer section */}
-      <Footer />
+      <Footer year="2024" fullName="Teerapad Pipadboonyarat" studentId="660610765" />
     </div>
   );
 }
